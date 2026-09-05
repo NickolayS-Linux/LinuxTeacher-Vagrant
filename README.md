@@ -72,7 +72,7 @@
 
 Диски подключены и смонтированы
 
-Проверим подключение в VM с хоста:
+Проверим подключение к VM с хоста:
 
 <img width="659" height="285" alt="image" src="https://github.com/user-attachments/assets/ced508f6-3687-4c6f-a4ea-a62ccdfa93f3" />
 
