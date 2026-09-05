@@ -42,7 +42,7 @@
 
 Форматирует добавленные диски в файловую систему ext4.
 
-Создает точки монтирования /mnt/sdc1, /mnt/sdd1 /mnt/sde2.
+Создает точки монтирования /mnt/sdc1, /mnt/sdd1, /mnt/sde2.
 
 Монтирует диски в указанные директории.
 
@@ -62,6 +62,21 @@
 
 <img width="621" height="93" alt="image" src="https://github.com/user-attachments/assets/77a28dfc-935b-48f0-b8e5-a9b228d28102" />
 
+Проверим записи монтирования дисков в /etc/fstab:
 
+<img width="766" height="220" alt="image" src="https://github.com/user-attachments/assets/138ad105-7be2-45d9-911c-48b466693a0d" />
 
+Проверим диск:
+
+<img width="623" height="269" alt="image" src="https://github.com/user-attachments/assets/844d1142-46cb-4c2a-ba02-14432c78ec58" />
+
+Диски подключены и смонтированы
+
+Проверим подключение в VM с хоста:
+
+<img width="659" height="285" alt="image" src="https://github.com/user-attachments/assets/ced508f6-3687-4c6f-a4ea-a62ccdfa93f3" />
+
+Подключение присутствует. 
+
+ДЗ выполнено в полном объеме.
 
